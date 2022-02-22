@@ -2,7 +2,7 @@
 -  
 - 🏫 I'm a fourth-year student at the University of Virginia, where I double major in Commerce and Statistics
 - 👀 I’m passionate about using analytics and technology to create a more equitable and sustainable world
-- 📊 I have 4 years of academic and professional experience working with data at every step of the analysis pipeline - from wrangling to visualizing to modeling to storytelling
+- 📊 I have 4 years of academic and professional experience working with data at every step of the analysis pipeline - from wrangling to visualizing to modeling to storytelling. Find a few of my favorite projects below!
 - 💻 My toolkit includes R, Python, SQL, Power BI, and Tableau
 - 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/jonathan-eman-697269169/), view my [resume](https://github.com/jonathan-eman/jonathan-eman/blob/main/Jonathan%20Eman%20Resume.pdf), or email me at jonathaneman57@gmail.com
 
