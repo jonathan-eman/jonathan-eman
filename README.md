@@ -1,7 +1,7 @@
 👋 Hi, I’m Jonathan
 -  
 - 🏫 I'm a recent graduate of the University of Virginia, where I double majored in Commerce and Statistics
-- 👀 I'm passionate about developing equitable and sustainable analytics solutions for companies
+- 👀 I'm passionate about accelerating social equity and sustainability through data science
 - 📊 I have 4 years of academic and professional experience working with data at every step of the analysis pipeline - from wrangling to visualizing to modeling to storytelling. Find a few of my favorite projects below!
 - 💻 My toolkit includes R, Python, SQL, Power BI, and Tableau
 - 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/jonathan-eman-697269169/), view my [resume](https://github.com/jonathan-eman/jonathan-eman/blob/main/Jonathan%20Eman%20Resume.pdf), or email me at jonathaneman57@gmail.com
